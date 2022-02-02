@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 02 Feb 2022 16:45:12 at https://validacion.escalabs.com/index.php?idSolicitud=1520829&idPaciente=447792 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -%R https://validacion.escaIabs.com/index.php?idSolicitud=1520829&idPaciente=447792 https://validacion.escalabs.com/index.php?idSolicitud=1520829&idPaciente=447792 -%L https://validacion.escaIabs.com/index.php?idSolicitud=1520829&idPaciente=447792 -O1 "C:\My Web Sites\Covid" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:45:12	Error: 	Could not include URL list: https://validacion.escaIabs.com/index.php?idSolicitud=1520829&idPaciente=447792
+16:45:50	Error: 	"Not Found" (404) at link https://validacion.escalabs.com/assets/dist/css/toastr.min.css (from https://validacion.escalabs.com/index.php?idSolicitud=1520829&idPaciente=447792)
+16:45:50	Error: 	"Not Found" (404) at link https://validacion.escalabs.com/assets/dist/js/toastr.min.js (from https://validacion.escalabs.com/index.php?idSolicitud=1520829&idPaciente=447792)
+16:45:50	Error: 	"Not Found" (404) at link https://validacion.escalabs.com/assets/dist/js/moment.min.js (from https://validacion.escalabs.com/index.php?idSolicitud=1520829&idPaciente=447792)
+
+HTTrack Website Copier/3.49-2 mirror complete in 56 seconds : 31 links scanned, 27 files written (3961792 bytes overall) [3969373 bytes received at 70881 bytes/sec], 7.7 requests per connection
+(4 errors, 0 warnings, 0 messages)
